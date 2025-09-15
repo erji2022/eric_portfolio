@@ -38,7 +38,7 @@ export default function ContactSection() {
 							</div>
 							<p className="text-green-600 dark:text-green-500 mt-8 mb-2">$ contact --email</p>
 							<motion.a
-								href="mailto:alex.chen@example.com"
+								href="mailto:erkhjin.oyunbaatar@mail.utoronto.ca"
 								whileHover={{ scale: 1.02 }}
 								className="inline-block px-6 py-3 bg-green-500/10 text-green-700 dark:text-green-400 rounded-lg border border-green-500/20 hover:bg-green-500/20 transition-colors"
 							>
@@ -46,7 +46,7 @@ export default function ContactSection() {
 							</motion.a>
 							<p className="text-green-600 dark:text-green-500 mt-8 mb-2">$ cat resume.pdf</p>
 							<motion.a
-								href="/resume.pdf"
+								href="/eric_resume.pdf"
 								target="_blank"
 								rel="noopener noreferrer"
 								whileHover={{ scale: 1.02 }}
@@ -60,7 +60,7 @@ export default function ContactSection() {
 							<p className="text-green-600 dark:text-green-500 mt-8 mb-4">$ ls ./social-links</p>
 							<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
 								<motion.a
-									href="#"
+									href="https://github.com/erji2022"
 									whileHover={{ scale: 1.05 }}
 									className="flex items-center gap-3 px-4 py-3 bg-gray-100 dark:bg-gray-800/50 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700/50 transition-colors border border-gray-200 dark:border-gray-700/50 group"
 								>
@@ -75,7 +75,7 @@ export default function ContactSection() {
 									</div>
 								</motion.a>
 								<motion.a
-									href="#"
+									href="https://www.linkedin.com/in/erkhjin/"
 									whileHover={{ scale: 1.05 }}
 									className="flex items-center gap-3 px-4 py-3 bg-gray-100 dark:bg-gray-800/50 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700/50 transition-colors border border-gray-200 dark:border-gray-700/50 group"
 								>
