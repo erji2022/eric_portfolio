@@ -26,7 +26,7 @@ export default function ProjectsShowcase() {
       description:
 	  'An interactive, scroll-based visualization that uses multiple datasets to show how human activities affect climate, air quality, plastic waste, and water resources.',
       image: '/316.png',
-      link: 'https://csc316-project-production.up.railway.app/'
+      link: 'https://csc-316-project.vercel.app/'
     },
   ];
 
