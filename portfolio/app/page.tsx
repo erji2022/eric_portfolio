@@ -1,7 +1,6 @@
 'use client';
 
 import { ThemeToggle } from './components/theme/ThemeToggle';
-import HeroSection from './components/LandingPage';
 import Experience from './components/Experience';
 import Projects from './components/Projects'
 import ContactSection from './components/ContactSection';
