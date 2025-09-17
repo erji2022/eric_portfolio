@@ -71,7 +71,7 @@ export default function Experience() {
 				<div className="grid grid-cols-1 gap-8">
 					{[
 						{
-							role: 'Software Developer Intern',
+							role: 'Front End Intern',
 							company: 'Netcapital Financial Group – Ulaanbaatar, Mongolia',
 							duration: 'May 2024 – Sep 2024',
 							description:
@@ -85,7 +85,7 @@ export default function Experience() {
 							tech: ['Javascript', 'Oracle', 'Flutter', 'React', 'HTML', 'CSS', 'Ant Design', ],
 						},
 						{
-							role: 'Front End Application Developer',
+							role: 'Front End Application Developer, Part-Time Intern',
 							company: 'Knowlecy – Toronto, ON',
 							duration: 'Jan 2024 – Apr 2024',
 							description:

@@ -1,4 +1,4 @@
-### Running the Template
+
 
 1. Install dependencies:
 
