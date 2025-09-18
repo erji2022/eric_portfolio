@@ -28,6 +28,12 @@ export default function ProjectsShowcase() {
       image: '/316.png',
       link: 'https://csc-316-project.vercel.app/'
     },
+    {
+    title: 'Autotranslate Chat App',
+    description:'Single device chat system built on Java language which translates texts and audio message between users',
+    image: '/Screenshot_20221204_125121.png',
+    link: 'https://github.com/CSC207-2022F-UofT/course-project-translate-chat-program'
+    }
   ];
 
   return (
