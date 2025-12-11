@@ -71,32 +71,35 @@ export default function Experience() {
 				<div className="grid grid-cols-1 gap-8">
 					{[
 						{
-							role: 'Front End Intern',
-							company: 'Netcapital Financial Group – Ulaanbaatar, Mongolia',
-							duration: 'May 2024 – Sep 2024',
+							role: 'Software Engineer',
+							company: 'Pinecone Studio – Bellevue, Washington',
+							duration: 'January 2024 – Present',
 							description:
-									'Contributed to the internal core system and mobile applications of Mongolia’s second-largest non-banking financial group, boosting efficiency and user experience.',
+							'Built HR, payroll, and internal automation systems that improved accuracy, efficiency, and overall workflow performance.',
 							highlights: [
-								'Developed and integrated new modules that improved system efficiency and reduced operational bottlenecks.',
-								'Collaborated with cross-functional teams in daily scrum meetings, applying Agile principles to manage deliverables and sprint timelines.',
-								'Contributed to full-stack development of mobile applications by translating business requirements into scalable technical solutions.',
-								'Planned development timelines and ensured timely delivery of features that aligned with strategic business goals.'
+								'Developed and optimized HR and payroll modules that improved system accuracy and reduced manual workload.',
+								'Collaborated with cross-functional teams in Agile sprints to deliver features on schedule.',
+								'Built end-to-end solutions across backend services and front-end apps to meet business requirements.',
+								'Created internal dashboards and CI/CD pipelines that enhanced visibility and streamlined development processes.'
 							],
-							tech: ['Javascript', 'Oracle', 'Flutter', 'React', 'HTML', 'CSS', 'Ant Design', ],
+							tech: ['JavaScript', 'TypeScript', 'React', 'Node.js', 'Express', 'PostgreSQL', 'MongoDB', 'GitHub Actions', 'Docker', 'HTML', 'CSS']
+
 						},
 						{
-							role: 'Front End Application Developer, Part-Time Intern',
-							company: 'Knowlecy – Toronto, ON',
-							duration: 'Jan 2024 – Apr 2024',
+							role: 'Software Engineer',
+							company: 'Netcapital Financial Group',
+							duration: 'Jan 2023 – Dec 2023',
 							description:
-							'Contributed to the development of a GPT-based academic tool, focusing on enhancing usability and implementing advanced front-end features to support academic research workflows.',
+							'Developed modular financial system features and mobile tools that improved tracking efficiency, data reliability, and team responsiveness.',
 							highlights: [
-								'Led the integration of new features that improved user engagement and expanded the platform’s capabilities.',
-								'Developed advanced front-end functionalities with React and Bootstrap, streamlining PDF uploads and refining UI design for optimal user experience.',
-								'Utilized GitHub for precise issue tracking and version control, ensuring clear communication and efficient resolution of development challenges.',
-								'Collaborated with both front-end and back-end teams to synchronize development efforts and deliver features aligned with user needs.',
+								'Built a lender management module that streamlined account tracking and reduced manual work by 30%.',
+								'Developed a Flutter-based mobile version used by 50+ employees, improving client response times by 20%.',
+								'Designed and optimized PostgreSQL schemas and indexes to improve financial reporting performance by 35%.',
+								'Collaborated with teams to deliver scalable features that supported core lending operations.'
+
 							],
-							tech: ['JavaScript', 'HTML', 'CSS', 'React', 'Bootstrap'],
+							tech: ['Flutter', 'Dart', 'JavaScript', 'PostgreSQL', 'Node.js', 'React', 'REST APIs', 'Git', 'Docker']
+
 						},
 					].map((exp, index) => (
 						<motion.div
